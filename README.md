@@ -1,6 +1,9 @@
 ## Parking Infrastructure in Seattle
 *A smart dashboard by Shayla Guieb*
 
+#### AI Disclaimer
+I used AI in this assignment for: debugging and explaining error messages, such as when running into mapbox issues or styling issues I had with the interface. I did not use AI to write or complete any components where AI use is prohibited. If AI was used for debugging or development, I am able to explain the relevant code and decisions.
+
 ### Overview
 This interactive dashboard looks at where off-street parking facilities are located across Seattle and how large they are in terms of capacity. The dashboard combines an interactive map with summary numbers and a chart so users can explore patterns in parking availability across different parts of the city.
 
