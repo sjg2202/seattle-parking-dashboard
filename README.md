@@ -31,5 +31,6 @@ This project uses two geospatial (GeoJSON) datasets.
 - [Seattle Public Garages and Parking Lots](https://data-seattlecitygis.opendata.arcgis.com/datasets/3029d63401544cd6b9783ef1bfb40b91_1/explore?location=47.595342%2C-122.334243%2C13)
 *locations and stall counts for parking facilities*
 <br>
+
 - [Seattle Neighborhood Map Atlas](https://data-seattlecitygis.opendata.arcgis.com/datasets/SeattleCityGIS::neighborhood-map-atlas-neighborhoods/explore?location=47.614610%2C-122.336918%2C11)
 *neighborhood boundary outlines for context*
